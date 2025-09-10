@@ -37,6 +37,7 @@ import (
 	_ "github.com/in-toto/go-witness/attestation/omnitrail"
 	_ "github.com/in-toto/go-witness/attestation/policyverify"
 	_ "github.com/in-toto/go-witness/attestation/product"
+	_ "github.com/in-toto/go-witness/attestation/rpm"
 	_ "github.com/in-toto/go-witness/attestation/sarif"
 	_ "github.com/in-toto/go-witness/attestation/sbom"
 	_ "github.com/in-toto/go-witness/attestation/secretscan"
